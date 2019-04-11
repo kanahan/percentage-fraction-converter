@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+  font-family: arial;
+  font-size: 70px;
+  font-weight: bold;
+}
+.container div#inputNum, .container input#inputNum {
+  width: 1.5em;
+  font-size: 70px;
+  color: green;
+  font-weight: bold;
+}
+.container div.green, .container input.green {
+  display: inline-block;
+  color: green;
+}
+.container div.red, .container input.red {
+  display: inline-block;
+  color: red;
+}
